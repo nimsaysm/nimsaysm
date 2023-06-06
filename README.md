@@ -1,6 +1,6 @@
 ### Olá, eu sou a Yasmin Soraya 👋
 
-- 🔭 Atualmente, eu trabalho como auxiliar de escritório
+- 🔭 Atualmente, busco estágio na área de tecnologia
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar
 - 😄 Pronomes: ela/dela.
 
