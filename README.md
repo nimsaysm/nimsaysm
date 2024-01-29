@@ -1,6 +1,5 @@
 ### Olá, eu sou a Yasmin Soraya 👋
 
-- 🔭 Atualmente, busco oportunidades na área de tecnologia
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar
 - 😄 Pronomes: ela/dela.
 
